@@ -1,2 +1,1 @@
-# deep-learning-lab
-Deep Learning 1 course laboratory exercises.
+https://www.fer.unizg.hr/predmet/dubuce1_a
